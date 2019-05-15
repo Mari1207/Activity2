@@ -1,0 +1,2 @@
+C:\Projects\Project1\Activity2\Activity2\obj\Debug\Activity2.csprojAssemblyReference.cache
+C:\Projects\Project1\Activity2\Activity2\obj\Debug\Activity2.csproj.CoreCompileInputs.cache
